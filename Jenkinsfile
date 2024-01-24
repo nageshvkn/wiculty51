@@ -1,3 +1,8 @@
 pipeline {
 
+  stages {
+	stage () {
+
+	}
+  }
 }
